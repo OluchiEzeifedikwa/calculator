@@ -1,3 +1,4 @@
+
 const one = document.querySelector('#one');
 one.addEventListener('click', () => {
     document.getElementById("display").innerHTML += one.innerHTML
